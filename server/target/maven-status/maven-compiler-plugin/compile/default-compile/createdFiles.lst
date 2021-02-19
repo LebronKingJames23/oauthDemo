@@ -1,0 +1,7 @@
+config\OauthConfig.class
+config\AuthorizationServerConfig.class
+config\WebSecurityConfig.class
+service\UserDetailsServiceImpl.class
+oauth\server\ServerApplication.class
+config\CustomUserDetailsService.class
+config\ResourceServerConfiguration.class
